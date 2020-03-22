@@ -1,0 +1,33 @@
+
+ul{
+   cursor:pointer;
+   padding: 40px 50px 50px 40px;
+}
+li:hover{
+   color: black;
+   border-bottom: 2px solid #fcbd00;
+}
+li{
+   list-style-type: none;
+   display: inline;
+   margin-left: 50px;
+   font-size: 15px;
+   font-family: monospace;
+   color: #c4c0be;
+   letter-spacing:5px;
+}
+.midle {
+   display: flex;
+   justify-content: center;
+ }
+ .text{
+   font-size: 25px;
+   color: black;
+   font-family: sans-serif;
+   padding: 150px 0px 0px 0px;
+   width: 450px;
+   margin-left: 180px;
+ }
+ body{
+    background-color: #F7F7F7;
+ }
